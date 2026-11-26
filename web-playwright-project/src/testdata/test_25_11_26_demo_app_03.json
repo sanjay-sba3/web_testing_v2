@@ -1,0 +1,4 @@
+{
+  "password": "${APP_PASSWORD}",
+  "otp": "123456"
+}
